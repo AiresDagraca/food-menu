@@ -3,4 +3,5 @@ project(food_menu)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(food_menu main.cpp)
+add_executable(food_menu main.cpp
+        main.cpp)
